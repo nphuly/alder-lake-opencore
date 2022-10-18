@@ -12,7 +12,6 @@ My Hackintosh setup using OpenCore (0.8.4). I hope this EFI can help you!
 - macOS: Monterey 12.6
 
 ### Things that don't work
-- Bluetooth 5.2 - doesn't support, but I don't use Bluetooth, so no big deal!
 - Airdrop
 - Thunderbolt 4 - Maybe that I haven't tried to make it work :) I will update this later
 
